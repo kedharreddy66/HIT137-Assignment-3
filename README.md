@@ -52,4 +52,4 @@ This repository contains two main projects developed as part of the assignment:
 ## Setup
 1. Clone this repository to your local machine using the command:
    ```bash
-   git clone 
+   git clone https://github.com/kedharreddy66/HIT137-Assignment-3.git
