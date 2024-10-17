@@ -6,11 +6,6 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [How to Run the Tkinter AI Application](#how-to-run-the-tkinter-ai-application)
-- [How to Run the Pygame Side-Scrolling Game](#how-to-run-the-pygame-side-scrolling-game)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 This repository contains two main projects developed as part of the assignment:
 
