@@ -23,7 +23,7 @@ cd (path)/HIT137-Assignment-3/image_classifier_app
 
 Create a virtual environment to isolate dependencies:
 ```bash
-python -m venv venv
+python -m venv (enviornment_name)
 ```
 
 Activate the virtual environment:
