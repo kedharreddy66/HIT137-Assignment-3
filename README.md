@@ -1,6 +1,6 @@
 # HIT137 (Assignment 3) Projects Repository
 
-This repository contains multiple projects developed as part of the HIT137 course. Each project focuses on a different aspect of software development, including game development and AI-based applications.
+This repository contains multiple projects developed as part of the HIT137 course. Each project focuses on a different aspect of software development, including game development and AI-based applications. Through this you can have look at the contents. 
 
 ## Table of Contents
 
